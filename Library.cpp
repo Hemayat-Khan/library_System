@@ -69,8 +69,8 @@ void loadBooks(vector<Book>& books) {
             file >> book.quantity;
             books.push_back(book);
         }
-        file.close();
-        ///////////
+        file.close(
+            arifullah
     } else {
         cout << "No previous data found. Starting fresh...\n";
     }
