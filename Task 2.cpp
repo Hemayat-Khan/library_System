@@ -3,7 +3,7 @@
 #include <string>
 #include <vector>
 using namespace std;
-
+//ok
 // Structure to hold patient details
 struct Patient {
     int id;
@@ -12,7 +12,7 @@ struct Patient {
     string disease;
     int roomNumber;
 };
-
+//hi
 // Function to add a new patient
 void addPatient(vector<Patient>& patients) {
     Patient newPatient;
