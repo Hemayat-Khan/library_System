@@ -71,6 +71,7 @@ void loadBooks(vector<Book>& books) {
         }
         file.close(
             arifullah
+            asim
     } else {
         cout << "No previous data found. Starting fresh...\n";
     }
