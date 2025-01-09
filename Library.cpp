@@ -12,6 +12,7 @@ struct Book {
     int quantity;
 };
 arif 
+arif
 // Function prototypes
 void loadBooks(vector<Book>& books);
 void saveBooks(const vector<Book>& books);
