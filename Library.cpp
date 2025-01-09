@@ -70,6 +70,7 @@ void loadBooks(vector<Book>& books) {
             books.push_back(book);
         }
         file.close();
+        ///////////
     } else {
         cout << "No previous data found. Starting fresh...\n";
     }
