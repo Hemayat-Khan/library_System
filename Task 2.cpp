@@ -4,6 +4,7 @@
 #include <vector>
 using namespace std;
 //ok
+//ok 2
 // Structure to hold patient details
 struct Patient {
     int id;
